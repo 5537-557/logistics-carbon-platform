@@ -1,0 +1,4 @@
+factor_id,factor_name,energy_type,value,unit,region,year,source
+EF001,北京电力平均排放因子,电力,0.5554,kgCO2/kWh,北京,2023,生态环境部
+EF002,瓦楞纸箱排放因子,包装,1.5,kgCO2/kg,全国,2023,LCA研究
+EF003,塑料包装袋排放因子,包装,3.0,kgCO2/kg,全国,2023,LCA研究
